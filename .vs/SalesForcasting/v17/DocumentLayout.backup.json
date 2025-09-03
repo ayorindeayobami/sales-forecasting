@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|c:\\users\\admin\\desktop\\dotnet-tasks\\dotnet-tasks\\salesforcasting\\salesforcasting\\models\\service\\forcastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|solutionrelative:salesforcasting\\models\\service\\forcastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|c:\\users\\admin\\desktop\\dotnet-tasks\\dotnet-tasks\\salesforcasting\\salesforcasting\\models\\salesforcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|solutionrelative:salesforcasting\\models\\salesforcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|c:\\users\\admin\\desktop\\dotnet-tasks\\dotnet-tasks\\salesforcasting\\salesforcasting\\wwwroot\\train.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|solutionrelative:salesforcasting\\wwwroot\\train.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|c:\\users\\admin\\desktop\\dotnet-tasks\\dotnet-tasks\\salesforcasting\\salesforcasting\\views\\home\\landing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|solutionrelative:salesforcasting\\views\\home\\landing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|c:\\users\\admin\\desktop\\dotnet-tasks\\dotnet-tasks\\salesforcasting\\salesforcasting\\views\\sales\\forecast.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|solutionrelative:salesforcasting\\views\\sales\\forecast.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|c:\\users\\admin\\desktop\\dotnet-tasks\\dotnet-tasks\\salesforcasting\\salesforcasting\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|solutionrelative:salesforcasting\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|c:\\users\\admin\\desktop\\dotnet-tasks\\dotnet-tasks\\salesforcasting\\salesforcasting\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|solutionrelative:salesforcasting\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|c:\\users\\admin\\desktop\\dotnet-tasks\\dotnet-tasks\\salesforcasting\\salesforcasting\\controllers\\salescontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|solutionrelative:salesforcasting\\controllers\\salescontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|c:\\users\\admin\\desktop\\dotnet-tasks\\dotnet-tasks\\salesforcasting\\salesforcasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|solutionrelative:salesforcasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|c:\\users\\admin\\desktop\\dotnet-tasks\\dotnet-tasks\\salesforcasting\\salesforcasting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|solutionrelative:salesforcasting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|c:\\users\\admin\\desktop\\dotnet-tasks\\dotnet-tasks\\salesforcasting\\salesforcasting\\models\\salesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|solutionrelative:salesforcasting\\models\\salesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|c:\\users\\admin\\desktop\\dotnet-tasks\\dotnet-tasks\\salesforcasting\\salesforcasting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28EB3C0F-1443-4EE0-87AD-E8A85F85479B}|SalesForcasting\\SalesForcasting.csproj|solutionrelative:salesforcasting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SalesForcasting\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SalesForcasting\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-24T23:17:59.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SalesForcasting\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SalesForcasting\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-24T23:17:47.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Landing.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Views\\Home\\Landing.cshtml",
+              "RelativeDocumentMoniker": "SalesForcasting\\Views\\Home\\Landing.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Views\\Home\\Landing.cshtml",
+              "RelativeToolTip": "SalesForcasting\\Views\\Home\\Landing.cshtml",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAAEEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T14:59:46.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SalesForcasting\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SalesForcasting\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:58:13.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "train.csv",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\wwwroot\\train.csv",
+              "RelativeDocumentMoniker": "SalesForcasting\\wwwroot\\train.csv",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\wwwroot\\train.csv",
+              "RelativeToolTip": "SalesForcasting\\wwwroot\\train.csv",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-07-30T18:09:24.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Forecast.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Views\\Sales\\Forecast.cshtml",
+              "RelativeDocumentMoniker": "SalesForcasting\\Views\\Sales\\Forecast.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Views\\Sales\\Forecast.cshtml",
+              "RelativeToolTip": "SalesForcasting\\Views\\Sales\\Forecast.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T18:06:05.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Program.cs",
+              "RelativeDocumentMoniker": "SalesForcasting\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Program.cs",
+              "RelativeToolTip": "SalesForcasting\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T16:07:13.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesForcasting\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SalesForcasting\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T16:06:20.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalesController1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Controllers\\SalesController1.cs",
+              "RelativeDocumentMoniker": "SalesForcasting\\Controllers\\SalesController1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Controllers\\SalesController1.cs",
+              "RelativeToolTip": "SalesForcasting\\Controllers\\SalesController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T16:04:22.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ForcastService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Models\\Service\\ForcastService.cs",
+              "RelativeDocumentMoniker": "SalesForcasting\\Models\\Service\\ForcastService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Models\\Service\\ForcastService.cs",
+              "RelativeToolTip": "SalesForcasting\\Models\\Service\\ForcastService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:54:47.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesForcast.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Models\\SalesForcast.cs",
+              "RelativeDocumentMoniker": "SalesForcasting\\Models\\SalesForcast.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Models\\SalesForcast.cs",
+              "RelativeToolTip": "SalesForcasting\\Models\\SalesForcast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:53:53.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalesData.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Models\\SalesData.cs",
+              "RelativeDocumentMoniker": "SalesForcasting\\Models\\SalesData.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Dotnet-Tasks\\dotnet-tasks\\SalesForcasting\\SalesForcasting\\Models\\SalesData.cs",
+              "RelativeToolTip": "SalesForcasting\\Models\\SalesData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:52:42.11Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

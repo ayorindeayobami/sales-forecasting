@@ -1,0 +1,32 @@
+﻿@model float[]
+
+<h2>Sales Forecast for Next 7 Days</h2>
+
+<form method="post" asp-action="Forecast" asp-controller="SalesForecast">
+    <button type="submit" class="btn btn-primary">Predict</button>
+</form>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-bordered mt-3">
+        <thead>
+            <tr>
+                <th>Day</th>
+                <th>Forecasted Sales</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Length; i++)
+            {
+                <tr>
+                    <td>@($"Day {i + 1}")</td>
+                    <td>@Model[i]</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No forecast data available.</p>
+}

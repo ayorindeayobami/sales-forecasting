@@ -1,0 +1,134 @@
+﻿@model List<SalesForcasting.Models.SalesData>
+
+@{
+    ViewData["Title"] = "Sales Forecast";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    body {
+        background: #f0f2f5;
+        font-family: 'Segoe UI', sans-serif;
+    }
+
+    .dashboard-container {
+        max-width: 1100px;
+        margin: auto;
+        padding: 40px 20px;
+    }
+
+    .card {
+        background-color: #ffffff;
+        border-radius: 12px;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+        padding: 30px;
+        margin-bottom: 40px;
+    }
+
+    h2 {
+        font-weight: 700;
+        color: #2c3e50;
+    }
+
+    table th {
+        background-color: #007bff;
+        color: white;
+    }
+
+    table td, table th {
+        text-align: center;
+    }
+
+    canvas {
+        max-height: 400px;
+    }
+</style>
+
+<div class="dashboard-container">
+    <div class="card">
+        <h2 class="text-center mb-4">📈 Sales Forecast for Next 7 Days</h2>
+
+        <div class="table-responsive">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Forecasted Sales</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Date.ToString("dddd, dd MMM yyyy")</td>
+                            <td>@item.Sales.ToString("N2")</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="card">
+        <h4 class="text-center mb-3">📊 Forecasted Sales Chart</h4>
+        <canvas id="forecastChart"></canvas>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        const labels = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model.Select(x => x.Date.ToString("MM/dd/yyyy"))));
+        const data = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model.Select(x => x.Sales)));
+
+        const ctx = document.getElementById('forecastChart').getContext('2d');
+        const chart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: 'Forecasted Sales (₦)',
+                    data: data,
+                    fill: true,
+                    backgroundColor: 'rgba(0, 123, 255, 0.2)',
+                    borderColor: 'rgba(0, 123, 255, 1)',
+                    tension: 0.4
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        position: 'top',
+                        labels: {
+                            color: '#333',
+                            font: {
+                                size: 14
+                            }
+                        }
+                    },
+                    title: {
+                        display: true,
+                        text: '7-Day Sales Forecast Line Chart',
+                        font: {
+                            size: 18
+                        }
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            color: '#333'
+                        }
+                    },
+                    x: {
+                        ticks: {
+                            color: '#333'
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+}
