@@ -61,7 +61,7 @@
                     {
                         <tr>
                             <td>@item.Date.ToString("dddd, dd MMM yyyy")</td>
-                            <td>@item.Sales.ToString("N2")</td>
+                            <td>$@item.Sales.ToString("N2")</td>
                         </tr>
                     }
                 </tbody>
@@ -87,7 +87,7 @@
             data: {
                 labels: labels,
                 datasets: [{
-                    label: 'Forecasted Sales (₦)',
+                    label: 'Forecasted Sales ($)',
                     data: data,
                     fill: true,
                     backgroundColor: 'rgba(0, 123, 255, 0.2)',

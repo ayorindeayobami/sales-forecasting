@@ -59,6 +59,10 @@ namespace SalesForcasting.Services
             return results;
         }
 
+        public async Task<List<SalesData>> GetAllForecastsAsync()
+        {
+            return await ForecastSalesAsync();
+        }
 
     }
 }

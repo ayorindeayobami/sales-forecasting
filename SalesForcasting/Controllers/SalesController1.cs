@@ -28,5 +28,12 @@ namespace SalesForcasting.Controllers
             var forecasts = await _forecastService.ForecastSalesAsync();
             return View(forecasts); // Looks for Views/Sales/Forecast.cshtml
         }
+
+        [HttpGet]
+        public async Task<IActionResult> GetAllForecasts()
+        {
+            var forecasts = await _forecastService.GetAllForecastsAsync();
+            return View(forecasts); // Looks for Views/Forecast/GetAllForecasts.cshtml
+        }
     }
 }
